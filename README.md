@@ -2,21 +2,28 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Dating App</b>
-  -[https://github.com/milapalondra/Dating-App.git]
-  
+<h6>Project Using HTML & CSS</h6>
+- <b>Tribute Page</b>
+ -[https://github.com/milapalondra/Tribute-Page.git]
+
+- <b>CSS Position Challenge </b>
+ -[https://github.com/milapalondra/CSS-Position-Challenge.git]
+   
 - <b>Gradient-Play Ground</b>
   -[https://github.com/milapalondra/gradient-playground.git]
-  
-- <b>CSS Position Challenge </b>
-  -[https://github.com/milapalondra/CSS-Position-Challenge.git]
-  
-- <b>Tribute Page</b>
-  -[https://github.com/milapalondra/Tribute-Page.git]
+
+- <b>Basic Web Page </b>
+  -[https://github.com/milapalondra/Basic-Web-Page.git]
+
+- <b>Dating App</b>
+  -[https://github.com/milapalondra/Dating-App.git]
   
 - <b>Restaurant Web Page Design </b>
   -[https://github.com/milapalondra/Restaurant-Web-Page.git]
 
+<h6>Project Using HTML & CSS & JAVASCRIPT</h6>
+- <b>Guess A Number Game</b>
+  -[https://github.com/milapalondra/Guess-A-Number.git]
 
 <h2> 🤳 Connect with me:</h2>
 
