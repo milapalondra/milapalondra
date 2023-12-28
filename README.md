@@ -29,7 +29,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://twitter.com/milap_alondra" target="_blank"><img align="left" alt="Milap Alondra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://twitter.com/milap_alondra"><img align="left" alt="Milap Alondra | Twitter" src="https://twitter.com/milap_alondra" onclick="window.open(this.src, '_blank');" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://www.linkedin.com/in/milap-alondra-a0a036236" target="_blank"><img align="left" target="_blank" alt="Milap Alondra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <a href="https://www.instagram.com/where.milap.goes" target="_blank"><img align="left" target="_blank" alt="Milap Alondra  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 
