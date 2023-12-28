@@ -34,6 +34,6 @@
 [<img align="left" alt="Milap Alondra  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/milap_alondra
-[instagram]: https://www.instagram.com/milap_alondra
-[linkedin]: https://linkedin.com/in/milap-alondra
+[instagram]: https://www.instagram.com/where.milap.goes
+[linkedin]: https://www.linkedin.com/in/milap-alondra-a0a036236
 
