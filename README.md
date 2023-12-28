@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h6>Project Using HTML & CSS</h6>
+
 - <b>Tribute Page</b>
  -[https://github.com/milapalondra/Tribute-Page.git]
 
@@ -22,6 +23,7 @@
   -[https://github.com/milapalondra/Restaurant-Web-Page.git]
 
 <h6>Project Using HTML & CSS & JAVASCRIPT</h6>
+
 - <b>Guess A Number Game</b>
   -[https://github.com/milapalondra/Guess-A-Number.git]
 
