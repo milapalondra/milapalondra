@@ -27,6 +27,9 @@
 - <b>Guess A Number Game</b>
   -[https://github.com/milapalondra/Guess-A-Number.git]
 
+- <b>Pig Game</b>
+  -[https://github.com/milapalondra/Pig-Game.git]
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://twitter.com/milap_alondra" target="_blank"><img align="left" alt="Milap Alondra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
